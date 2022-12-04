@@ -1,5 +1,3 @@
-re
-math
 bs4
 folium
 requests
@@ -11,4 +9,3 @@ matplotlib
 celluloid 
 datetime 
 IPython
-folium
